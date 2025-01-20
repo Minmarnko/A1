@@ -43,7 +43,7 @@ Training parameters are consistant across all three models.
 
 | Model               | Skipgram | Skipgram (NEG) | GloVe | GloVe (Gensim) | Y true |
 |---------------------|-----------|----------------|-------|----------------|--------|
-| **Spearman Correlation**             | 0.0932   | 0.1546        | -0.0090 | 0.5000        |  |
+| **Spearman Correlation**             | 0.0932   | 0.1546        | -0.0090 | 0.5962        | 0.5000 |
 
 
 ## Model Comparison Report
